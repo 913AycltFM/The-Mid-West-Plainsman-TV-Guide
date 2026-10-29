@@ -6,36 +6,6 @@
     <display-name>The Mid West Plainsman</display-name>
     <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
   </channel>
-  <programme start="20261028190000 -0500" stop="20261028200000 -0500" channel="TheMidWestPlainsman">
-    <title lang="en">The Mid West Plainsman</title>
-    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
-    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
-  </programme>
-  <programme start="20261028200000 -0500" stop="20261028210000 -0500" channel="TheMidWestPlainsman">
-    <title lang="en">The Mid West Plainsman</title>
-    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
-    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
-  </programme>
-  <programme start="20261028210000 -0500" stop="20261028220000 -0500" channel="TheMidWestPlainsman">
-    <title lang="en">The Mid West Plainsman</title>
-    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
-    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
-  </programme>
-  <programme start="20261028220000 -0500" stop="20261028230000 -0500" channel="TheMidWestPlainsman">
-    <title lang="en">The Mid West Plainsman</title>
-    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
-    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
-  </programme>
-  <programme start="20261028230000 -0500" stop="20261029000000 -0500" channel="TheMidWestPlainsman">
-    <title lang="en">The Mid West Plainsman</title>
-    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
-    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
-  </programme>
-  <programme start="20261029000000 -0500" stop="20261029010000 -0500" channel="TheMidWestPlainsman">
-    <title lang="en">The Mid West Plainsman</title>
-    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
-    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
-  </programme>
   <programme start="20261029010000 -0500" stop="20261029020000 -0500" channel="TheMidWestPlainsman">
     <title lang="en">The Mid West Plainsman</title>
     <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
@@ -842,6 +812,36 @@
     <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
   </programme>
   <programme start="20261104170000 -0600" stop="20261104180000 -0600" channel="TheMidWestPlainsman">
+    <title lang="en">The Mid West Plainsman</title>
+    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
+    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
+  </programme>
+  <programme start="20261104180000 -0600" stop="20261104190000 -0600" channel="TheMidWestPlainsman">
+    <title lang="en">The Mid West Plainsman</title>
+    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
+    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
+  </programme>
+  <programme start="20261104190000 -0600" stop="20261104200000 -0600" channel="TheMidWestPlainsman">
+    <title lang="en">The Mid West Plainsman</title>
+    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
+    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
+  </programme>
+  <programme start="20261104200000 -0600" stop="20261104210000 -0600" channel="TheMidWestPlainsman">
+    <title lang="en">The Mid West Plainsman</title>
+    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
+    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
+  </programme>
+  <programme start="20261104210000 -0600" stop="20261104220000 -0600" channel="TheMidWestPlainsman">
+    <title lang="en">The Mid West Plainsman</title>
+    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
+    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
+  </programme>
+  <programme start="20261104220000 -0600" stop="20261104230000 -0600" channel="TheMidWestPlainsman">
+    <title lang="en">The Mid West Plainsman</title>
+    <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
+    <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
+  </programme>
+  <programme start="20261104230000 -0600" stop="20261105000000 -0600" channel="TheMidWestPlainsman">
     <title lang="en">The Mid West Plainsman</title>
     <desc lang="en">The Mid West Plainsman Is A Media Broadcast Content Creator In Waterloo, Iowa Covering Everything In The Cedar Valley Corridor and Central Iowa</desc>
     <icon src="https://mp3tourl.com/images/1790116455920-0030dd1a-85d7-401a-bb1b-8cdb4160da9a.png" />
